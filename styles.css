@@ -105,7 +105,7 @@ form {
   color: rgba(62, 161, 219, 1);
 }
 
-.trashIcon:hover {
+.trashIcon:hover { /* le da color con esta propiedad que se llama a travez del Js */
   color: #f00;
 }
 
